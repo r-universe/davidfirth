@@ -8,3 +8,8 @@
 	url = https://github.com/davidfirth/qvcalc
 	shallow = true
 	registered = true
+[submodule "relimp"]
+	path = relimp
+	url = https://github.com/cran/relimp
+	shallow = true
+	registered = true
